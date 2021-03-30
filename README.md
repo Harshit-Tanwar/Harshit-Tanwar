@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Harshit-T
 - 👀 I’m interested in 
-- 🌱 I’m currently learning java 
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail
 
 <!---
