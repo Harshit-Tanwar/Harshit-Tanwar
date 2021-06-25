@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshit-T
+- 👋 Hi, I’m @Harshit Tanwar
 - 👀 I’m interested in technology
 - 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on projects
