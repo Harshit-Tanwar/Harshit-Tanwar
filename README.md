@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshit-T
-- 👀 I’m interested in 
-- 🌱 I’m currently learning
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning CS
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail
 
