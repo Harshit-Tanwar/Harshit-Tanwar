@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshit Tanwar
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning CS
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me mail harshittanwar86@gmail.com
