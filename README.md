@@ -1,3 +1,3 @@
-Hi I am Harshit Tanawar
-Currently, i am learning Java and spring framework
+Hi I am Harshit Tanwar
+Currently, I am learning Java and Spring framework
 
