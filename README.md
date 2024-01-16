@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @Harshit Tanwar
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me mail harshittanwar86@gmail.com
+Hi I am Harshit Tanawar
+Currently, i am learning Java and spring framework
+
